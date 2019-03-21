@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
+## What is the goal of this meetup?
+
+### 1. To become better informed on the ways that different technologies affect our lives, the lives of the people around us, and the lives of those that *aren’t* immediately around us.
+### 2. To work together in making ethical technology.
+### 3. To promote a positive and inclusive tech culture in Vancouver, and beyond.
+
 With new tech entering the zeitgeist faster than ever, it’s important for consumers and developers of tech alike to be aware of the subtle effects that different technologies have in our society. In this meetup series we’ll look at some of the surprising ways that technology and ethics bump into each other, and and then come up with some guidelines and practices that developers can use to promote an ethical tech sector.
 
 Details for upcoming sessions can be found on the [Devhub Vancouver Meetup page](https://www.meetup.com/DevhubVancouver).

@@ -23,6 +23,8 @@ twitter_username: NimaBoscarino
 github_username:  NimaBoscarino
 linkedin_username:  nima-boscarino
 
+show_excerpts: true
+
 # Build settings
 markdown: kramdown
 theme: minima

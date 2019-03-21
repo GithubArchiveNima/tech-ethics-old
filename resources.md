@@ -4,6 +4,8 @@ title: Resources
 permalink: /resources/
 ---
 
+I previously put together a collection of categorized resources, discussion questions, and a lesson plan for a workshop, [available on GitHub](https://github.com/NimaBoscarino/tech-ethics-notes).
+
 Here are a bunch of resources, categorized by medium:
 
 ## Books
@@ -12,6 +14,10 @@ Here are a bunch of resources, categorized by medium:
 - Weapons of Math Destruction
 - Invisible Women
 - The Death of the Gods
+
+## Websites
+
+- [Ethical Web Development](https://ethicalweb.org)
 
 ## Articles
 

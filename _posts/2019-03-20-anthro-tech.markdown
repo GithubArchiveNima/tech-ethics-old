@@ -3,9 +3,21 @@ layout: post
 title:  "Anthropomorphic Tech"
 date:   2019-03-20 8:00:00 -0700
 categories: anthropomorphic robots bbc ai elderly care
+permalink: /anthro-tech
+excerpt: >-
+    As AI advances, many products are being built with human features as a core part of their design. In this session, we dove into what that means, and explored the decisions and conversations that arise as a result of this.
+image: https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80)
+image_credit: Alex Knight @agkdesign
+unsplash_url: https://unsplash.com/photos/2EJCSULRwC8)
+
+
 ---
 
 ## Anthropomorphic Tech
+
+![](https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80)
+
+[_Photo credit: Alex Knight @agkdesign x Unsplash_](https://unsplash.com/photos/2EJCSULRwC8)
 
 Here are the notes from our meeting on March 20th, 2019.
 
@@ -16,7 +28,7 @@ What human qualities are robot care-takers designed to exhibit?
 What are the social implications of products like sex robots?
 What does it mean to be human?
 
-As AI advances, many products are being built with human features as a core part of their design. In this session, we'll dive into what that means, and explore the decisions and conversations that arise as a result of this.
+As AI advances, many products are being built with human features as a core part of their design. In this session, we dove into what that means, and explored the decisions and conversations that arise as a result of this.
 
 ### AGENDA
 
