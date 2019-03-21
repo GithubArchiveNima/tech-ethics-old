@@ -1,11 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|VT323');
+
+$color1: #231123;
+$color2: #82204A;
+$color3: #558C8C;
+$color4: #E8DB7D;
+$color5: #EFF7FF;
+
 @include min-media-query($on-laptop) {
   body {
     display: flex;
     flex-direction: row;
+    font-family: 'Open Sans', sans-serif;
+    background: $color3;
   }
 
-  .site-title {
-    // display: none;
+  a.site-title,
+  a.site-title:visited,
+  .post-title,
+  .post-list-heading,
+  .post-link,
+  .post-meta,
+  .footer-heading {
+    font-family: 'VT323', monospace;
+    color: $color4;
+  }
+
+  .post-meta {
+    font-size: 18px;
+  }
+
+  .post-content h2 {
+    font-family: 'VT323', monospace;
+    color: $color4;    
+    font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 1;
+  }
+
+  .p-name {
+    display: none;
+  }
+
+  a, a:visited {
+    color: $color4;
+  }
+
+  .svg-icon {
+    fill: $color4;
+  }
+
+  a:hover {
+    color: $color2;
   }
 
   .site-header {
@@ -17,10 +62,12 @@
 
   .site-nav {
     width: 100%;
+    color: $color5;
   }
 
   main {
     width: 60%;
+    color: $color5;
   }
 
   footer {
@@ -32,17 +79,35 @@
     flex-direction: column;
     
     .page-link {
+      font-family: 'VT323', monospace;
       font-size: 25px;
+      color: $color4;
     }
   }
 
   .footer-col-wrapper {
     display: flex;
     flex-direction: column;
+
+    p {
+      color: $color5;
+    }
   }
 
   .site-footer {
     border-top: none;
     border-left: 1px solid #e8e8e8;
+  }
+  
+  .footer-col {
+    width: 100%;
+  }
+
+  .social-media-list {
+    width: 100%;
+
+    li {
+      width: 100%;
+    }
   }
 }

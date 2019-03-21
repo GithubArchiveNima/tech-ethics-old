@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+With new tech entering the zeitgeist faster than ever, it’s important for consumers and developers of tech alike to be aware of the subtle effects that different technologies have in our society. In this meetup series we’ll look at some of the surprising ways that technology and ethics bump into each other, and and then come up with some guidelines and practices that developers can use to promote an ethical tech sector.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Details for upcoming sessions can be found on the [Devhub Vancouver Meetup page](https://www.meetup.com/DevhubVancouver).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+These sessions are hosted in Vancouver by me, Nima Boscarino!
 
+I'm an instructor at [Lighthouse Labs](https://www.lighthouselabs.ca), a Canadian web development bootcamp.
 
-[jekyll-organization]: https://github.com/jekyll
+You can read more about me on [my personal page](https://nimaboscarino.github.io). Please reach out if you're interested in attending, presenting, or just want to learn more!
