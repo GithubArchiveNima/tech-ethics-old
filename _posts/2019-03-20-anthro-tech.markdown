@@ -19,7 +19,7 @@ unsplash_url: https://unsplash.com/photos/2EJCSULRwC8)
 
 [_Photo credit: Alex Knight @agkdesign x Unsplash_](https://unsplash.com/photos/2EJCSULRwC8)
 
-Here are the notes from our meeting on March 20th, 2019.
+Thanks for coming to the session! It was wonderful meeting all of you, and I hope you all enjoyed the discussion. Here are the notes from our meeting on March 20th, 2019.
 
 ### Details
 
