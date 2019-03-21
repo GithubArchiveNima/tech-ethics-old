@@ -7,9 +7,6 @@ permalink: /anthro-tech
 excerpt: >-
     As AI advances, many products are being built with human features as a core part of their design. In this session, we dove into what that means, and explored the decisions and conversations that arise as a result of this.
 image: https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80)
-image_credit: Alex Knight @agkdesign
-unsplash_url: https://unsplash.com/photos/2EJCSULRwC8)
-
 
 ---
 
@@ -17,7 +14,8 @@ unsplash_url: https://unsplash.com/photos/2EJCSULRwC8)
 
 ![](https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80)
 
-[_Photo credit: Alex Knight @agkdesign x Unsplash_](https://unsplash.com/photos/2EJCSULRwC8)
+
+_Photo by [Andy Kelly](https://unsplash.com/photos/0E_vhMVqL9g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/robot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 Thanks for coming to the session! It was wonderful meeting all of you, and I hope you all enjoyed the discussion. Here are the notes from our meeting on March 20th, 2019.
 
