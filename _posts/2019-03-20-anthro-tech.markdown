@@ -67,3 +67,31 @@ As AI advances, many products are being built with human features as a core part
 - What human qualities are robot care-takers designed to exhibit?
 - What are the social implications of products like sex robots?
 - What does it mean to be human-like?
+
+
+### Rough notes from during the discussion
+
+```
+Robots and therapy - no emotional baggage
+
+Transparency of bots - people are more at ease talking to bots
+
+Bias of programs/bots (e.g. in therapy)
+
+Autonomous warfare
+
+"The world is built for humans, so robots that are humanlike can coexist more easily" - Sanctuary AI
+
+Androgynous voices
+- Does this propagate violence vs. trans folks
+
+Who can enforce this stuff?
+- Government?
+- In a capitalist society...
+- Education
+- So, should there be an ethical certification? A-la LEED
+
+Education + critical thinking: Question your assumptions
+
+Kara Swisher
+```
