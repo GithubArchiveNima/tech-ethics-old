@@ -28,6 +28,10 @@ TBD!
 
 ### Questions
 
-Discussion questions will be revealed at the session.
+- What type of information should private companies be able to collect?
+- How transparent should companies be when informing users on the information that is collected and extrapolated?
+- When it comes to protecting our personal information and accessing the information that others have gathered on us, what are our rights?
+
+More discussion questions will be revealed at the session.
 
 ### Rough Notes from Discussion
