@@ -5,7 +5,7 @@ date:   2019-03-26 8:00:00 -0700
 categories: learning analytics stella lee futures
 permalink: /learning-analytics
 excerpt: >-
-  This month I had the privilege of presenting at [Stella Lee's Futures of Learning meetup group](https://www.meetup.com/FuturesOfLearning/events/259861752/) alongside [Alec Balasescu](https://www.alecbalasescu.com/). The theme for the session was "Learning Analytics".
+  This month I had the privilege of presenting at Stella Lee's Futures of Learning meetup group alongside Alec Balasescu. The theme for the session was "Learning Analytics".
 image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2018&q=80
 published: true
 ---
