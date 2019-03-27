@@ -137,3 +137,10 @@ $color5: #EFF7FF;
   margin-top: 15px;
 }
 
+.highlighter-rouge .highlight {
+  background: $color1;
+}
+
+pre > code {
+  background-color: transparent;
+}
