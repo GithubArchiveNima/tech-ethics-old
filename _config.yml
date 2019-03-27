@@ -16,7 +16,7 @@
 title: EthicalYVR.Tech
 email: nima@lighthouselabs.com
 description: >- # this means to ignore newlines until "baseurl:"
-  EthicalYVR.Tech is presented by Nima Boscarino, a Web Development Bootcamp instructor at Lighthouse Labs.
+  Ethical Tech YVR is presented by Nima Boscarino, a Web Development Bootcamp instructor at Lighthouse Labs.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://ethicalyvr.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NimaBoscarino
