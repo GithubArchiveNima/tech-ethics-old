@@ -8,7 +8,7 @@ Sessions are scheduled for every other Tuesday in Vancouver.
 
 ## April 2, 2019: Freedom of Information and Privacy
 
-**Meetup link: TBD**
+**Meetup link: [Register here!](https://www.meetup.com/DevhubVancouver/events/260152513/)**
 
 - What type of information should private companies be able to collect?
 - How transparent should companies be when informing users on the information that is collected and extrapolated?

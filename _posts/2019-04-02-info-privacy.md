@@ -15,7 +15,7 @@ published: true
 
 In this week's session we'll be exploring the world of privacy! We'll dive into the laws that protect our information and privacy rights in BC, and learn about the effects of the General Data Protection Regulation (GDPR) in the European Union.
 
-Meetup link: TBD
+[Meetup link](https://www.meetup.com/DevhubVancouver/events/260152513/)
 
 ### AGENDA
 
