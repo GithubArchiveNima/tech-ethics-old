@@ -5,7 +5,7 @@ date:   2019-05-04 8:00:00 -0700
 categories: 
 permalink: /autonomous-weapons
 excerpt: >-
-  In this week's session we'll learn about how autonomous weapons have a presence in militaries around the world, and the ethical issues surrounding their use.
+  On May 15th's session we'll learn about how autonomous weapons have a presence in militaries around the world, and the ethical issues surrounding their use.
 published: true
 ---
 
