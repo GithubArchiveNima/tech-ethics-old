@@ -16,6 +16,13 @@ Details for upcoming sessions can be found on the [Devhub Vancouver Meetup page]
 
 These sessions are hosted in Vancouver by me, Nima Boscarino!
 
-I'm an instructor at [Lighthouse Labs](https://www.lighthouselabs.ca), a Canadian web development bootcamp.
+I'm a lead instructor at [Lighthouse Labs](https://www.lighthouselabs.ca), a Canadian web development bootcamp.
 
-You can read more about me on [my personal page](https://nimaboscarino.github.io). Please reach out if you're interested in attending, presenting, or just want to learn more!
+You can read more about me on [my personal page](https://nimaboscarino.github.io), or connect with me through:
+
+- Email: <a href="mailto:nima@lighthouselabs.com">nima@lighthouselabs.com</a>
+- Twitter: [@NimaBoscarino](https://twitter.com/NimaBoscarino)
+- GitHub: [NimaBoscarino](https://github.com/NimaBoscarino)
+- LinkedIn: [nima-boscarino](https://linkedin.com/in/nima-boscarino)
+
+ Please reach out if you're interested in attending, presenting, or just want to learn more!

@@ -6,10 +6,15 @@ categories: freedom of privacy fippa foippa pippa gdpr information european unio
 permalink: /privacy
 excerpt: >-
   In this week's session we'll be exploring the world of privacy! We'll dive into the laws that protect our information and privacy rights in BC, and learn about the effects of the General Data Protection Regulation (GDPR) in the European Union.
+image: https://images.unsplash.com/photo-1461685265823-f8d5d0b08b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
 published: true
 ---
 
 ## Freedom of Information and Protection of Privacy
+
+![](https://images.unsplash.com/photo-1461685265823-f8d5d0b08b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+
+_Photo by [Matthew Henry](https://unsplash.com/photos/fPxOowbR6ls?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/surveillance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 ### Details
 
